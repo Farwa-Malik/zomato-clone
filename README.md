@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <h2>Enatega Multi Vendor Food Delivery System</h2>
+  <h2>Zomato Clone Food Delivery System</h2>
   <i>The food delivery and order management system for the future.</i>
  <br/>
 <br />
@@ -58,7 +58,7 @@
 
 
 
-The Enatega Multi vendor food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
+The zomato clone food delivery system is perfect for customers looking to deploy a readymade and easy to use food ordering platform for their own food delivery and logistics business. Just like foodpanda and ubereats, our food delivery system can incorporate multiple restaurants as well as restaurants that operate in multiple locations. With access to the admin panel and separate applications for customers and riders, you can use this solution to create your own online food ordering and order/delivery management system instantaneously.
 
 Our solution is open source but the backend and API are proprietary, and can be obtained via paid license.
 
@@ -88,9 +88,9 @@ Our solution is open source but the backend and API are proprietary, and can be 
 
 Our food delivery system also comes with the following:
 
-- Enatega Multi vendor Customer App
-- Enatega Multi vendor Rider App
-- Enatega Multi vendor Restaurant App
+- Zomato Clone Customer App
+- Zomato Clone Rider App
+- Zomato Clone Restaurant App
 - Customer Food Ordering Website
 - Admin Web Dashboard
 - Application ProgramInterface Server
@@ -205,7 +205,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Enatega Multi Vendor Solution [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the Zomato Clone Solution [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 |      Admin Dashboard Demo        |        Mobile App Demo         |
