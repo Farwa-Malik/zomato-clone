@@ -205,7 +205,7 @@ NOTE: Email provider has been only been tested for gmail accounts
 
 ## :book: Documentation <a id="heading-8"></a>
 
-Find the link for the complete documentation of the Zomato Clone Solution [here](https://enatega.com/multivendor-documentation/).
+Find the link for the complete documentation of the Zomato Clone App Solution [here](https://enatega.com/multivendor-documentation/).
 
 ## :tv: Demo Videos: <a id="heading-14"></a>
 |      Admin Dashboard Demo        |        Mobile App Demo         |
@@ -233,4 +233,4 @@ The frontend source code for our solution is completely open source. However, th
 
 ## :mailbox_with_mail: Contact Us: <a id="heading-13"></a>
 	
-[Check out the Product Page and Pricing and more for Enatega Multivendor Food Delivery Solution](https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
+[Check out the Product Page and Pricing and more for Zomato Clone App Solution](https://enatega.com/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678)
